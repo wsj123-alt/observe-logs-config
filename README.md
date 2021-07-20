@@ -1,0 +1,1 @@
+observe-logs-config
